@@ -1,7 +1,7 @@
 # Hello, I'm _Astral
 <a href="https://www.linkedin.com/in/pearl-juesca-04245b24/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Network Engineer  Cybersecurity Enthusiast  AWS Cloud Learner
+Aspiring Network Engineer,  Cybersecurity Enthusiast,  AWS Cloud Learner
 Passionate about IT infrastructure and security solutions. 
 Dedicated to building expertise and driving innovation in the tech world.
 
@@ -31,7 +31,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange" />
+<img src="https://img.shields.io/badge/GOOGLE-System%20Admin%20%26%20IT%20Infrastructure-blue" />
+<img src="https://img.shields.io/badge/GOOGLE-Operating%20System-blue" />
+<img src="https://img.shields.io/badge/GOOGLE-Computer%20Networking-blue" />
+<img src="https://img.shields.io/badge/GOOGLE-Technical%20Support%20Fundamentals-blue" />
+<img src="https://img.shields.io/badge/CISCO-Hardware%20Basics-dark%20green" />
 </div>
 
 ## Projects
