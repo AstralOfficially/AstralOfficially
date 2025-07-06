@@ -44,6 +44,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 - Shopify Web Development
 <div>
-<img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00">
+<a href="coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808">
 </div>
