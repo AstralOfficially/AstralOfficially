@@ -42,4 +42,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- Shopify Web Development (coolestrugs.ca / vintagesauce.ca)
+- Shopify Web Development <img src="[https://img.shields.io/badge/coolestrugs.ca-](https://img.shields.io/badge/coolestrugs.ca-FFFF00)/>
