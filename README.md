@@ -1,4 +1,4 @@
-# Hello, I'm _Astral
+# Hello, I'm Pearl Juesca
 <a href="https://www.linkedin.com/in/pearl-juesca-04245b24/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AstralOfficially/brainbin/wiki"><img src="https://img.shields.io/badge/GITHUB%20WIKI-dark%20green" /></a>
 
