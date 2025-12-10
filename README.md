@@ -1,9 +1,7 @@
 # Hello, I'm _Astral
 <a href="https://www.linkedin.com/in/pearl-juesca-04245b24/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Network Engineer,  Cybersecurity Enthusiast,  AWS Cloud Learner
-Passionate about IT infrastructure and security solutions. 
-Dedicated to building expertise and driving innovation in the tech world.
+Certified AWS Practitioner | Certified IT Support | Aspiring Network Engineer Cybersecurity | Growing Expertise in IT Infrastructure, Security, and Shopify Development
 
 
 ## Objective [2025]
