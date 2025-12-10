@@ -4,9 +4,9 @@
 Certified AWS Practitioner | Certified IT Support | Aspiring Network Engineer Cybersecurity | Growing Expertise in IT Infrastructure, Security, and Shopify Development
 
 
-## Objective [2025]
-I want to grow as a Network Engineer while diving deep into cybersecurity and cloud technologies. I’m passionate about creating secure, efficient IT solutions that make a real difference, and I’m eager to learn and tackle exciting challenges along the way
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Objective
+To contribute my skills and dedication to a challenging role as a Cybersecurity Analyst within a SOC environment, specializing in Service Assessment Level 1 (SAL1) operations and advanced endpoint investigation techniques.  I am committed to continuous learning and developing expertise in threat detection, incident response, and proactive security measures.
 
 ## Skills
 - Networking: Routing, switching, network design, and troubleshooting.
@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Networking: Cisco Packet Tracer, Wireshark
 - Cybersecurity: Kali Linux, Burp Suite, Wireshark, Splunk.
 - Cloud Computing: AWS Management Console, AWS CLI, and Terraform for cloud deployment and infrastructure as code.
-- IT Infrastructure: VMware vSphere, Hyper-V, Docker, and Kubernetes for virtualization and container orchestration.
+- IT Infrastructure: VMware vSphere, Hyper-V, Docker.
 - Programming: Visual Studio Code, PyCharm, and Git for coding and version control.
 
 
