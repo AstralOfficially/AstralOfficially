@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 
 - Networking: Cisco Packet Tracer, Wireshark
-- Cybersecurity: Kali Linux, Burp Suite, and OpenVAS for penetration testing and vulnerability assessment.
+- Cybersecurity: Kali Linux, Burp Suite, Wireshark, Splunk.
 - Cloud Computing: AWS Management Console, AWS CLI, and Terraform for cloud deployment and infrastructure as code.
 - IT Infrastructure: VMware vSphere, Hyper-V, Docker, and Kubernetes for virtualization and container orchestration.
 - Programming: Visual Studio Code, PyCharm, and Git for coding and version control.
