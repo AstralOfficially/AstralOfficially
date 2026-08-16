@@ -30,7 +30,7 @@ To contribute my skills and dedication to a challenging role as a Cybersecurity 
 
 ## Certifications
 <div>
-<P>AWS</div>P>
+<P>AWS</P>
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange" />
 
 <P>GOOGLE</P>
