@@ -30,11 +30,17 @@ To contribute my skills and dedication to a challenging role as a Cybersecurity 
 
 ## Certifications
 <div>
+AWS
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange" />
+
+GOOGLE
 <img src="https://img.shields.io/badge/GOOGLE-System%20Admin%20%26%20IT%20Infrastructure-blue" />
 <img src="https://img.shields.io/badge/GOOGLE-Operating%20System-blue" />
 <img src="https://img.shields.io/badge/GOOGLE-Computer%20Networking-blue" />
 <img src="https://img.shields.io/badge/GOOGLE-Technical%20Support%20Fundamentals-blue" />
+
+
+CISCO
 <img src="https://img.shields.io/badge/CISCO-Hardware%20Basics-dark%20green" />
 </div>
 
