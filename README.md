@@ -40,7 +40,7 @@ GOOGLE
 <img src="https://img.shields.io/badge/GOOGLE-Technical%20Support%20Fundamentals-blue" />
 
 
-CISCO
+<P>CISCO</P>
 <img src="https://img.shields.io/badge/CISCO-Hardware%20Basics-dark%20green" />
 </div>
 
