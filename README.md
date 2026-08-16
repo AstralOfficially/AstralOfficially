@@ -48,12 +48,13 @@ To contribute my skills and dedication to a challenging role as a Cybersecurity 
 - Detection Lab
 - SOC Automation Project
 - Shopify Web Development
-- 
-## 🛠️ Hands-On Cybersecurity Projects
-* **[Windows Server & Active Directory Lab](./windows-server-homelab)**:
-* Built an AD DS environment, implemented baseline GPO hardening, automated user onboarding with PowerShell, and configured Sysmon log forwarding.
   
 <div>
 <a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808">
 </div>
+
+## 🛠️ Hands-On Cybersecurity Projects
+* **[Windows Server & Active Directory Lab](./Window-Server-Home-Lab)**:
+- Built an AD DS environment, implemented baseline GPO hardening, automated user onboarding with PowerShell, and configured Sysmon log forwarding.
+ 
