@@ -55,6 +55,6 @@ To contribute my skills and dedication to a challenging role as a Cybersecurity 
 </div>
 
 ## 🛠️ Hands-On Cybersecurity Projects
-* **[Windows Server & Active Directory Lab](./Window-Server-Home-Lab)**:
+* **<a href= "https://github.com/AstralOfficially/Window-Server-Home-Lab">[Windows Server & Active Directory Lab]</a>**:
 - Built an AD DS environment, implemented baseline GPO hardening, automated user onboarding with PowerShell, and configured Sysmon log forwarding.
  
