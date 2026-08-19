@@ -6,15 +6,24 @@ Certified AWS Practitioner | Certified IT Support | Certified ISC2 Cybersecurity
 
 
 
-## Objective
-To contribute my skills and dedication to a challenging role as a Cybersecurity Analyst within a SOC environment, specializing in Service Assessment Level 1 (SAL1) operations and advanced endpoint investigation techniques.  I am committed to continuous learning and developing expertise in threat detection, incident response, and proactive security measures.
+## PROFESSIONAL SUMMARY
+Detail-oriented Cybersecurity & Systems Administrator with a strong foundation in enterprise infrastructure, cloud security,
+and compliance documentation. Certified in ISC2 Cybersecurity (CC) and AWS Cloud Practitioner, actively pursuing
+CompTIA Security+ and Cisco CCNA. Hands-on experience configuring Windows Server enterprise environments (Active
+Directory DS, GPOs, DNS/DHCP, Hyper-V), analyzing security event logs, managing access controls (IAM/RBAC), and
+upholding strict chain-of-custody protocols within regulated public sector operations.
 
 ## Skills
-- Networking: Routing, switching, network design, and troubleshooting.
-- Cybersecurity: Threat analysis, vulnerability assessment, penetration testing, and security protocols. (ongoing)
-- Cloud Computing: AWS services, cloud architecture, and deployment. 
-- IT Infrastructure: System administration, virtualization, and hardware/software management.
-- Programming: Python, Bash scripting, and automation tools.
+- Systems & Identity: Windows Server (2025/2022), Active Directory Domain Services (AD DS), Group Policy Objects
+(GPOs), RBAC, Microsoft 365 Admin, Azure AD/Entra ID fundamentals, Hyper-V, VirtualBox
+- Security Operations: SIEM Alert Triage, Windows Event Log Analysis, Authentication Monitoring, Incident Response
+Workflows, Threat Modeling (STRIDE), Security Baselines
+- Networking & Cloud: AWS (IAM, CloudTrail, S3, Shared Responsibility Model), TCP/IP, DNS, DHCP, Subnetting, Virtual
+Switches, VLANs, Wireshark, Cisco Packet Tracer
+-Tools & Scripting: Splunk, QRadar, Wireshark, Python Automation, Regular Expressions (Regex), SQL Fundamentals,
+Linux CLI (Bash)
+- Governance & Compliance: Evidence Handling & Chain of Custody, IT Security Risk Registers, Least Privilege Enforcement,
+Policy & Technical Documentation
 - Soft Skills: Problem-solving, teamwork, and effective communication.
 
 
