@@ -53,7 +53,7 @@ Policy & Technical Documentation
 <img src="https://img.shields.io/badge/CISCO-Hardware%20Basics-dark%20green" />
 
 <P>ISC2</P>
-<img src="https://img.shields.io/badge/ISC@%20Cybersecurity-dark%20green" />
+<img src="https://img.shields.io/badge/ISC2%20Cybersecurity-dark%20green" />
 </div>
 
 ## Projects
