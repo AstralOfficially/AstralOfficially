@@ -1,16 +1,23 @@
 # Hello, I'm Pearl Juesca, CC
+
+### 📫 Connect With Me
 <a href="https://www.linkedin.com/in/pearl-juesca-04245b24/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AstralOfficially/brainbin/wiki"><img src="https://img.shields.io/badge/GITHUB%20WIKI-dark%20green" /></a>
 
-🛡️ **Aspiring Cybersecurity Analyst**  
+**Aspiring Cybersecurity Analyst**  
 I focus on hands-on defensive security, virtualized network environments, and enterprise identity management.
+Passionate about securing enterprise architectures and translating complex regulatory frameworks into actionable, defensible security baselines.
 
 ## PROFESSIONAL SUMMARY
-Detail-oriented Cybersecurity & Systems Administrator with a strong foundation in enterprise infrastructure, cloud security,
-and compliance documentation. Certified in ISC2 Cybersecurity (CC) and AWS Cloud Practitioner, actively pursuing
-CompTIA Security+ and Cisco CCNA. Hands-on experience configuring Windows Server enterprise environments (Active
-Directory DS, GPOs, DNS/DHCP, Hyper-V), analyzing security event logs, managing access controls (IAM/RBAC), and
-upholding strict chain-of-custody protocols within regulated public sector operations.
+- **Governance & Policy:** Information Security Policies, Security Baselines, Compliance Mapping
+- **Risk & Compliance:** Risk Assessment & Treatment, Vulnerability Management, Audit Preparation
+- **Security Operations & Identity:** Active Directory Governance, IAM, Group Policy Objects (GPOs), Access Auditing
+- **Frameworks & Standards (In Focus):** NIST CSF, ISO/IEC 27001, CIS Controls, SOC 2
+
+  Tech & Competencies
+- **Identity & System Governance:** Active Directory Domain Services (AD DS), Windows Server, Hyper-V, Linux
+- **Networking & Defense:** Cisco Networking, TCP/IP, Network Segmentation, Traffic Analysis
+- **GRC & ITSM Tools:** ServiceNow, Risk Assessment Matrices, Audit Checklists, PowerShell
 
 ## Skills
 - Systems & Identity: Windows Server (2025/2022), Active Directory Domain Services (AD DS), Group Policy Objects
@@ -27,14 +34,11 @@ Policy & Technical Documentation
 
 
 ## Tools
-
 - Networking: Cisco Packet Tracer, Wireshark
 - Cybersecurity: Kali Linux, Burp Suite, Wireshark, Splunk.
 - Cloud Computing: AWS Management Console, AWS CLI, and Terraform for cloud deployment and infrastructure as code.
 - IT Infrastructure: VMware vSphere, Hyper-V, Docker.
 - Programming: Visual Studio Code, PyCharm, and Git for coding and version control.
-
-
 
 ## Certifications
 <div>
@@ -55,10 +59,13 @@ Policy & Technical Documentation
 <img src="https://img.shields.io/badge/ISC2%20Cybersecurity-dark%20green" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Shopify Web Development
+- ### 🧪 Featured Hands-on Labs & Projects
+- **Enterprise AD Access Control & Policy Governance:** Designed strict Organizational Unit structures, enforced principle-of-least-privilege RBAC, and audited administrative access.
+- **Security Baseline & Risk Matrix Assessment:** Mapped virtualized infrastructure against CIS benchmarks and established remediation plans.
+- **Incident & Change Management Simulation:** Implemented structured ITIL/ITSM ticketing and change workflows for security incident logging and asset tracking.
+- **Detection Lab
+- **SOC Automation Project
+- **Shopify Web Development
   
 <div>
 <a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
