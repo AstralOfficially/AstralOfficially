@@ -68,7 +68,8 @@ Policy & Technical Documentation
 - Shopify Web Development
   <div>
   <a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808">
+  <a href="www.vintagesauce.ca"><img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808"></a>
+  <a href="www.speedcodeauto.ca"><img src="https://img.shields.io/badge/speedcodeauto.ca-orange" /></a>  
   </div>
 
 ## 🛠️ Hands-On Cybersecurity Projects
