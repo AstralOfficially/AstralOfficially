@@ -58,7 +58,7 @@ Policy & Technical Documentation
 <P>ISC2</P>
 <img src="https://img.shields.io/badge/ISC2%20Cybersecurity-dark%20green" />
 </div>
-
+<br />
 - 🧪 Featured Hands-on Labs & Projects
 - **Enterprise AD Access Control & Policy Governance:** Designed strict Organizational Unit structures, enforced principle-of-least-privilege RBAC, and audited administrative access.
 - **Security Baseline & Risk Matrix Assessment:** Mapped virtualized infrastructure against CIS benchmarks and established remediation plans.
