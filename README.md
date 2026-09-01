@@ -59,10 +59,11 @@ Policy & Technical Documentation
 <img src="https://img.shields.io/badge/ISC2%20Cybersecurity-dark%20green" />
 </div>
 <br />
-- 🧪 Featured Hands-on Labs & Projects
-- **Enterprise AD Access Control & Policy Governance:** Designed strict Organizational Unit structures, enforced principle-of-least-privilege RBAC, and audited administrative access.
-- **Security Baseline & Risk Matrix Assessment:** Mapped virtualized infrastructure against CIS benchmarks and established remediation plans.
-- **Incident & Change Management Simulation:** Implemented structured ITIL/ITSM ticketing and change workflows for security incident logging and asset tracking.
+
+🧪 Featured Hands-on Labs & Projects
+- Enterprise AD Access Control & Policy Governance:** Designed strict Organizational Unit structures, enforced principle-of-least-privilege RBAC, and audited administrative access.
+- Security Baseline & Risk Matrix Assessment:** Mapped virtualized infrastructure against CIS benchmarks and established remediation plans.
+- Incident & Change Management Simulation:** Implemented structured ITIL/ITSM ticketing and change workflows for security incident logging and asset tracking.
 - Detection Lab
 - SOC Automation Project
 - Shopify Web Development
