@@ -63,14 +63,13 @@ Policy & Technical Documentation
 - **Enterprise AD Access Control & Policy Governance:** Designed strict Organizational Unit structures, enforced principle-of-least-privilege RBAC, and audited administrative access.
 - **Security Baseline & Risk Matrix Assessment:** Mapped virtualized infrastructure against CIS benchmarks and established remediation plans.
 - **Incident & Change Management Simulation:** Implemented structured ITIL/ITSM ticketing and change workflows for security incident logging and asset tracking.
-- **Detection Lab
-- **SOC Automation Project
-- **Shopify Web Development
-  
-<div>
-<a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
-<img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808">
-</div>
+- Detection Lab
+- SOC Automation Project
+- Shopify Web Development
+  <div>
+  <a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808">
+  </div>
 
 ## 🛠️ Hands-On Cybersecurity Projects
 * **<a href= "https://github.com/AstralOfficially/Window-Server-Home-Lab">[Windows Server & Active Directory Lab]</a>**:
