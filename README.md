@@ -61,7 +61,6 @@ Policy & Technical Documentation
 <br />
 
 🧪 Featured Hands-on Labs & Projects
-- Enterprise AD Access Control & Policy Governance:** Designed strict Organizational Unit structures, enforced principle-of-least-privilege RBAC, and audited administrative access.
 - Security Baseline & Risk Matrix Assessment:** Mapped virtualized infrastructure against CIS benchmarks and established remediation plans.
 - Incident & Change Management Simulation:** Implemented structured ITIL/ITSM ticketing and change workflows for security incident logging and asset tracking.
 - Detection Lab
@@ -75,4 +74,5 @@ Policy & Technical Documentation
 ## 🛠️ Hands-On Cybersecurity Projects
 * **<a href= "https://github.com/AstralOfficially/Window-Server-Home-Lab">[Windows Server & Active Directory Lab]</a>**:
 Built an AD DS environment, implemented baseline GPO hardening, automated user onboarding with PowerShell, and configured Sysmon log forwarding.
+Designed strict OU structures, enforced least-privilege RBAC, and audited administrative access.
  
