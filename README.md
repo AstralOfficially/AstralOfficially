@@ -2,9 +2,8 @@
 <a href="https://www.linkedin.com/in/pearl-juesca-04245b24/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AstralOfficially/brainbin/wiki"><img src="https://img.shields.io/badge/GITHUB%20WIKI-dark%20green" /></a>
 
-Certified AWS Practitioner | Certified IT Support | Certified ISC2 Cybersecurity|Aspiring Network Engineer Cybersecurity | Working and Studying for Comptia Security+ and CCNA certifications
-
-
+🛡️ **Aspiring Cybersecurity Analyst**  
+I focus on hands-on defensive security, virtualized network environments, and enterprise identity management.
 
 ## PROFESSIONAL SUMMARY
 Detail-oriented Cybersecurity & Systems Administrator with a strong foundation in enterprise infrastructure, cloud security,
