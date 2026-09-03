@@ -40,7 +40,6 @@ Policy & Technical Documentation
 <div>
     <img src="https://img.shields.io/badge/-Kali%20Linux-000000?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
     <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Splunk-0C1724?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-CISCO%20Packet%20Tracer-777BB4?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
@@ -68,14 +67,14 @@ Policy & Technical Documentation
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3585F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Splunk-0C1724?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic%20Stack-FED10A?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3585F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
