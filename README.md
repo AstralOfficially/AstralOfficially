@@ -79,6 +79,8 @@ Policy & Technical Documentation
     <img src="https://img.shields.io/badge/-Wazuh-3585F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 <br />
+
+### Others
 - IT Infrastructure: VMware vSphere, Hyper-V, Docker.
 - Programming: Visual Studio Code, PyCharm, and Git for coding and version control.
 
