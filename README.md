@@ -34,9 +34,52 @@ Policy & Technical Documentation
 
 
 ## Tools
-- Networking: Cisco Packet Tracer, Wireshark
-- Cybersecurity: Kali Linux, Burp Suite, Wireshark, Splunk.
-- Cloud Computing: AWS Management Console, AWS CLI, and Terraform for cloud deployment and infrastructure as code.
+
+### Cybersecurity
+
+<div>
+    <img src="https://img.shields.io/badge/-Kali%20Linux-000000?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Splunk-0C1724?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CISCO%20Packet%20Tracer-777BB4?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+### Cloud Computing
+<div> 
+    <img src="https://img.shields.io/badge/-AWS%20Management%20Console-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cloud-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-E2232A?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-0D3880?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+</div>
+
+### Core Infrastructure Pentesting Tools
+<div>
+    <img src="https://img.shields.io/badge/NMAP-00ff00?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-FF4F00?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSH-000000?&style=for-the-badge&logo=ssh&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-3585F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20Stack-FED10A?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-3585F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+<br />
 - IT Infrastructure: VMware vSphere, Hyper-V, Docker.
 - Programming: Visual Studio Code, PyCharm, and Git for coding and version control.
 
@@ -46,11 +89,11 @@ Policy & Technical Documentation
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange" />
 
 <P>GOOGLE</P>
+<img src="https://img.shields.io/badge/GOOGLE-Cybersecurity-blue" />
 <img src="https://img.shields.io/badge/GOOGLE-System%20Admin%20%26%20IT%20Infrastructure-blue" />
 <img src="https://img.shields.io/badge/GOOGLE-Operating%20System-blue" />
 <img src="https://img.shields.io/badge/GOOGLE-Computer%20Networking-blue" />
 <img src="https://img.shields.io/badge/GOOGLE-Technical%20Support%20Fundamentals-blue" />
-
 
 <P>CISCO</P>
 <img src="https://img.shields.io/badge/CISCO-Hardware%20Basics-dark%20green" />
@@ -60,20 +103,18 @@ Policy & Technical Documentation
 </div>
 <br />
 
-🧪 Featured Hands-on Labs & Projects
-- Security Baseline & Risk Matrix Assessment:** Mapped virtualized infrastructure against CIS benchmarks and established remediation plans.
-- Incident & Change Management Simulation:** Implemented structured ITIL/ITSM ticketing and change workflows for security incident logging and asset tracking.
-- Detection Lab
-- SOC Automation Project
-- Shopify Web Development
-  <div>
-  <a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
-  <a href="www.vintagesauce.ca"><img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808"></a>
-  <a href="www.speedcodeauto.ca"><img src="https://img.shields.io/badge/speedcodeauto.ca-orange" /></a>  
-  </div>
-
 ## 🛠️ Hands-On Cybersecurity Projects
 * **<a href= "https://github.com/AstralOfficially/Window-Server-Home-Lab">[Windows Server & Active Directory Lab]</a>**:
 Built an AD DS environment, implemented baseline GPO hardening, automated user onboarding with PowerShell, and configured Sysmon log forwarding.
 Designed strict OU structures, enforced least-privilege RBAC, and audited administrative access.
+
+## Featured Hands-on Labs & Projects
+* Shopify Web Development
+  <div>
+  <a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
+  <a href="www.vintagesauce.ca"><img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808"></a>
+  <a href="www.speedcodeauto.ca"><img src="https://img.shields.io/badge/speedcodeauto.ca-orange" /></a>  
+
+
+
  
