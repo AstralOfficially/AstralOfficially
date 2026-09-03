@@ -109,12 +109,6 @@ Policy & Technical Documentation
 Built an AD DS environment, implemented baseline GPO hardening, automated user onboarding with PowerShell, and configured Sysmon log forwarding.
 Designed strict OU structures, enforced least-privilege RBAC, and audited administrative access.
 
-## Featured Hands-on Labs & Projects
-* Shopify Web Development
-  <div>
-  <a href="www.coolestrugs.ca"><img alt="Static Badge" src="https://img.shields.io/badge/coolestrugs.ca-FFFF00"></a>
-  <a href="www.vintagesauce.ca"><img alt="Static Badge" src="https://img.shields.io/badge/vintagesauce.ca-880808"></a>
-  <a href="www.speedcodeauto.ca"><img src="https://img.shields.io/badge/speedcodeauto.ca-orange" /></a>  
 
 
 
