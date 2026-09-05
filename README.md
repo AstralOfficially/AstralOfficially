@@ -109,9 +109,11 @@ Policy & Technical Documentation
 * **<a href= "https://github.com/AstralOfficially/Window-Server-Home-Lab">[Windows Server & Active Directory Lab]</a>**:
 Built an AD DS environment, implemented baseline GPO hardening, automated user onboarding with PowerShell, and configured Sysmon log forwarding.
 Designed strict OU structures, enforced least-privilege RBAC, and audited administrative access.
+* **<a href= "https://github.com/AstralOfficially/SOC-Lab-LimaCharlie-Sliver-Emulation">[LimaCharlie EDR Deployment & Sliver C2 Adversary Emulation]</a>**:
+Hands-on SOC analyst home lab demonstrating endpoint telemetry ingestion with LimaCharlie EDR, Sysmon integration, Sigma rules, and C2 adversary simulation via Sliver.
 
 ## Networking 
-* * **<a href= "https://github.com/AstralOfficially/Networking-Basics">[Windows Networking Basics]</a>**
+* **<a href= "https://github.com/AstralOfficially/Networking-Basics">[Windows Networking Basics]</a>**
 
 
 
