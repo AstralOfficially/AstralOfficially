@@ -111,6 +111,8 @@ Hands-on SOC analyst home lab demonstrating endpoint telemetry ingestion with Li
 * **<a href="https://github.com/AstralOfficially/brainbin/wiki/Humans-Attack-Vectors-Lab"> [TryHackMe - Humans as Attack Vectors] </a>**
 * **<a href="https://github.com/AstralOfficially/brainbin/wiki/Systems-as-Attack-Vectors-Lab"> [TryHackMe - System as Attack Vectors] </a>**
 * **<a href="https://github.com/AstralOfficially/brainbin/wiki/SOC-L1-Alert-Triage-Lab"> [TryHackMe - SOC L1 Alert Triage] </a>**
+* **<a href="https://github.com/AstralOfficially/brainbin/wiki/SOC-Workbook-Labs"> [TryHackMe - SOC Workbook] </a>**
+* **<a href="https://github.com/AstralOfficially/brainbin/wiki/SOC-Metrics-Labs"> [TryHackMe - SOC Metrics] </a>**
 
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MZAECPPGRT.pdf">[Advent of Cyber 2025 (24 Cyber Security Challenge) - Certificate of Completion]</a>
 * **<a href="https://github.com/AstralOfficially/brainbin/wiki/TRYHACKME-%7C-Advent-of-Cyber-Prep-Track-2025"> [TryHackMe - Advent of Cyber 2025] </a>**
