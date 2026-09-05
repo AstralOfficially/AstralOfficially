@@ -106,8 +106,13 @@ Designed strict OU structures, enforced least-privilege RBAC, and audited admini
 * **<a href= "https://github.com/AstralOfficially/SOC-Lab-LimaCharlie-Sliver-Emulation">[LimaCharlie EDR Deployment & Sliver C2 Adversary Emulation]</a>**:
 Hands-on SOC analyst home lab demonstrating endpoint telemetry ingestion with LimaCharlie EDR, Sysmon integration, Sigma rules, and C2 adversary simulation via Sliver.
 
-## CTF
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/1TS3K1C0L7PK">[![](https://img.shields.io/badge/GOOGLE-Cybersecurity-blue)]</a>
+## CTF / Security Challenges
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MZAECPPGRT.pdf">[Advent of Cyber 2025 (24 Cyber Security Challenge) - Certificate of Completion]</a>
+* **<a href="https://github.com/AstralOfficially/brainbin/wiki/TRYHACKME-%7C-Advent-of-Cyber-Prep-Track-2025"> [TryHackMe - Advent of Cyber 2025] </a>**
+* **<a href="https://github.com/AstralOfficially/brainbin/wiki/TRYHACKME-%7C-Linux-CLI-%E2%80%90-Shells-Bells-2025"> [TryHackMe - Advent of Cyber 2025 - Linux CLI] </a>**
+* **<a href="https://github.com/AstralOfficially/brainbin/wiki/TRYHACKME-%7C-Phishing-%E2%80%90-Merry-Clickmas-2025"> [TryHackMe - Advent of Cyber 2025 - Phishing] </a>**
+* **<a href="https://github.com/AstralOfficially/brainbin/wiki/TRYHACKME-%7C--Splunk-Basics-%E2%80%90-Did-you-SIEM%3F-2025"> [TryHackMe - Advent of Cyber 2025] - Splunk </a>**
+* **<a href="https://github.com/AstralOfficially/brainbin/wiki/TRYHACKME-%7C-AI-in-Security-%E2%80%90-old-sAInt-nick"> [TryHackMe - Advent of Cyber 2025] - AI in Security</a>**
 
 ## Networking 
 * **<a href= "https://github.com/AstralOfficially/Networking-Basics">[Windows Networking Basics]</a>**
