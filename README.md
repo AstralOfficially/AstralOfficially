@@ -79,23 +79,23 @@ I focus on hands-on defensive security, virtualized network environments, and en
 ## Certifications
 
 **AWS**
-<a href="#">[![](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange)]</a>
+<a href="https://www.credly.com/badges/f48a901a-b0b2-4741-8d8e-ee5f0a2c5fa3/linked_in_profile">[![](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange)]</a>
 <!-- TODO: replace "#" above with your Credly/verification link -->
 
 **GOOGLE**
-<a href="#">[![](https://img.shields.io/badge/GOOGLE-Cybersecurity-blue)]</a>
-<a href="#">[![](https://img.shields.io/badge/GOOGLE-System%20Admin%20%26%20IT%20Infrastructure-blue)]</a>
-<a href="#">[![](https://img.shields.io/badge/GOOGLE-Operating%20System-blue)]</a>
-<a href="#">[![](https://img.shields.io/badge/GOOGLE-Computer%20Networking-blue)]</a>
-<a href="#">[![](https://img.shields.io/badge/GOOGLE-Technical%20Support%20Fundamentals-blue)]</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/1TS3K1C0L7PK">[![](https://img.shields.io/badge/GOOGLE-Cybersecurity-blue)]</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/LXPUIM8TM3PC">[![](https://img.shields.io/badge/GOOGLE-System%20Admin%20%26%20IT%20Infrastructure-blue)]</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/DD5FI8BAVR1R">[![](https://img.shields.io/badge/GOOGLE-Operating%20System-blue)]</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/IPZMOZYFKTL7">[![](https://img.shields.io/badge/GOOGLE-Computer%20Networking-blue)]</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/F5XDRMONB72Y">[![](https://img.shields.io/badge/GOOGLE-IT%20Support%20-blue)]</a>
 <!-- TODO: replace each "#" above with the matching Coursera/Credly verification link -->
 
 **CISCO**
-<a href="#">[![](https://img.shields.io/badge/CISCO-Hardware%20Basics-dark%20green)]</a>
+<a href="https://www.credly.com/badges/a240d205-6533-4edd-a61c-256c55718328/linked_in_profile">[![](https://img.shields.io/badge/CISCO-Hardware%20Basics-dark%20green)]</a>
 <!-- TODO: replace "#" above with your verification link -->
 
 **ISC2**
-<a href="#">[![](https://img.shields.io/badge/ISC2%20Cybersecurity-dark%20green)]</a>
+<a href="https://www.credly.com/badges/98d77da6-331f-4ed2-9e03-510b461bea96/linked_in_profile">[![](https://img.shields.io/badge/ISC2%20Cybersecurity-dark%20green)]</a>
 <!-- TODO: replace "#" above with your verification link -->
 
 
@@ -105,6 +105,9 @@ Built an AD DS environment, implemented baseline GPO hardening, automated user o
 Designed strict OU structures, enforced least-privilege RBAC, and audited administrative access.
 * **<a href= "https://github.com/AstralOfficially/SOC-Lab-LimaCharlie-Sliver-Emulation">[LimaCharlie EDR Deployment & Sliver C2 Adversary Emulation]</a>**:
 Hands-on SOC analyst home lab demonstrating endpoint telemetry ingestion with LimaCharlie EDR, Sysmon integration, Sigma rules, and C2 adversary simulation via Sliver.
+
+## CTF
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/1TS3K1C0L7PK">[![](https://img.shields.io/badge/GOOGLE-Cybersecurity-blue)]</a>
 
 ## Networking 
 * **<a href= "https://github.com/AstralOfficially/Networking-Basics">[Windows Networking Basics]</a>**
